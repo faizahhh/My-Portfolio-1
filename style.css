@@ -40,32 +40,28 @@ p {
 }
 a {
     color:black;
-    margin-top:20px;
-    
+    margin-top:20px;   
 }
 
 .morespace {background-color:rgb(194, 77, 149);
-    margin: 80px;
-    
+    margin: 80px;   
 }    
 
 .text-center {
 margin-top: 40px;
 color:black;
-
-
 }
 
 .navbar-expand-sm {
     background-color:rgb(194, 77, 149);
-    margin-bottom:30px;
-    
-    
+    margin-bottom:30px; 
 }
+
 
 h1 {
     font-family: 'Libre Bodoni', serif;
 }
+
  .resumebtn {
      align-items:center;
  }
